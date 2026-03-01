@@ -10,7 +10,7 @@ authors:
     given-names: C.E.
   - family-names: Iribarren
     given-names: P.
-title: Data Analysis Pro Plotting: Feature-Focused Visualization for High-Dimensional Biological Data
+title: "Feature-Focused Visualization for High-Dimensional Biological Data – v0.1.0"
 version: 0.1.0
 date-released: 2026-02-28
 DOI: 10.5281/zenodo.18819796
