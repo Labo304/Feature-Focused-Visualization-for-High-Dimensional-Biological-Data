@@ -47,4 +47,5 @@ from .volcano_gsea_improvements import plot_gsea_with_genes
 # -------------------------------
 # Optional: package version
 # -------------------------------
-__version__ = "0.1.0"
+
+__version__ = "0.1.2"
