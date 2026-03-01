@@ -57,7 +57,7 @@ It combines computational analysis with publication-ready figures, supporting re
 Once published on Zenodo, please cite this library as:
 
 > **Data Analysis Pro Plotting** (Version 0.1.0), Zenodo, 2026.  
-> DOI: 10.5281/zenodo.XXXXXXX
+> DOI: 10.5281/zenodo.18819795.
 
 ---
 
@@ -191,3 +191,4 @@ These datasets are provided **for illustrative purposes only** and do not repres
 Qian J, Luo F, Yang J, Liu J, Liu R, Wang L, Wang C, Deng Y, Lu Z, Wang Y, Lu M, Wang J-Y, Chu Y.  
 *TLR2 Promotes Glioma Immune Evasion by Downregulating MHC Class II Molecules in Microglia.*  
 Available at: [GEO GSE109297](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE109297)
+
