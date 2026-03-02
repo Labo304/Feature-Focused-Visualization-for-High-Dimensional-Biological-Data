@@ -1,6 +1,6 @@
 # Data Analysis Pro Plotting
 
-**Version:** 0.1.0  
+**See the latest release in the Releases section.**
 
 ---
 
@@ -54,11 +54,13 @@ It combines computational analysis with publication-ready figures, supporting re
 
 ## DOI / Citation
 
-Once published on Zenodo, please cite this library as:
+If you use this software, please cite it as:
 
-> **Data Analysis Pro Plotting** (Version 0.1.0), Zenodo, 2026.  
-> DOI: 10.5281/zenodo.18819795.
+> Manzone Rodriguez C., Angiolini S.C., Sotomayor C.E., Iribarren P. (2026).  
+> **Data Analysis Pro Plotting.** Zenodo.  
+> https://doi.org/10.5281/zenodo.18819795
 
+This DOI represents all versions of the software. For version-specific citation, please refer to the corresponding GitHub Release.
 ---
 
 ## Key Features
@@ -191,4 +193,5 @@ These datasets are provided **for illustrative purposes only** and do not repres
 Qian J, Luo F, Yang J, Liu J, Liu R, Wang L, Wang C, Deng Y, Lu Z, Wang Y, Lu M, Wang J-Y, Chu Y.  
 *TLR2 Promotes Glioma Immune Evasion by Downregulating MHC Class II Molecules in Microglia.*  
 Available at: [GEO GSE109297](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE109297)
+
 
